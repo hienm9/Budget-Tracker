@@ -1,7 +1,7 @@
 # Budget Tracker
 
 ### Project description
-This is budget tracker application that allows offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
+This is a budget tracker application that allows offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
 
 # Table of Contents
