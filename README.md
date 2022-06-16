@@ -1,5 +1,3 @@
-# Budget-Tracker
-
 # Social-Network-API
 API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
 
@@ -24,10 +22,10 @@ git clone https://github.com/hienm9/Budget-Tracker
 
 ## Technologies
 
-*<p><a href="https://nodejs.org/">Node.js</a></p>
-*<p><a href="https://expressjs.com/">Express.js</a></p>
-*<p><a href="https://www.mongodb.com/">Mongo DB</a></p>
-*<p><a href="https://mongoosejs.com/">Mongoose ODM</a></p>
+<p><a href="https://nodejs.org/">Node.js</a></p>
+<p><a href="https://expressjs.com/">Express.js</a></p>
+<p><a href="https://www.mongodb.com/">Mongo DB</a></p>
+<p><a href="https://mongoosejs.com/">Mongoose ODM</a></p>
 
 ## User Story
 
