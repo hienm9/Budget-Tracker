@@ -1,23 +1,23 @@
-# Social-Network-API
-API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
+# Budget Tracker
 
 ### Project description
-This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Technology used in this project: Express.js for routing, a MongoDB database, and the Mongoose ODM
+This is budget tracker application that allows offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
 
 # Table of Contents
-  - [Walkthrough](#Walkthrough)
+  - [Screenshots](#Screenshots)
   - [Usage](#usage)
   - [Technologies](#Technologies)
   - [Acceptance Criteria](#AcceptanceCriteria)
   - [Contributors](#contributors)
 
 
-### Application link: 
+## Screenshots
+![](public/images/Budget-Tracker.png)
 
 
 ## Usage
-git clone https://github.com/hienm9/Budget-Tracker
+Application link: https://hien-budget-tracker.herokuapp.com/
 
 
 ## Technologies
